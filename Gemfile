@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'specific_install'
+gem 'rerun'
+gem 'nokogiri'
+gem 'rack'
+gem 'grape'
+gem 'garner'
+gem 'rack-cors'
